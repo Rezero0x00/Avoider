@@ -1,2 +1,2 @@
 ### Wiring
-![Wiring diagram](wiring.jpeg)
+![Wiring diagram](wiring.png)
